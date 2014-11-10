@@ -1,0 +1,9 @@
+{
+  "name": "uncheck-stay-signed-in-from-google-accounts",
+  "title": "Uncheck \"Stay signed in\" from Google Accounts",
+  "id": "jid1-raUcu1cGCu3xDg",
+  "description": "Uncheck \"Stay signed in\" when trying to log in to Google services.",
+  "author": "Francesco Frassinelli",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
